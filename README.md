@@ -1,4 +1,1 @@
 # RISE
-
-Hello there guys
-
